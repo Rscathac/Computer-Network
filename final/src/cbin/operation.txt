@@ -1,0 +1,8 @@
++----------------------------------------+
+| /unfriend username                     |
+| /addfriend username                    |
+| /friend                                |
+| /log username                          |
+| /logout                                |  
+| /chat username                         |                                    
++----------------------------------------+
